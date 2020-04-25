@@ -1,4 +1,4 @@
-# Demo Node & Express Docker App
+# Demo Node & Express Docker App ( Azure Container Resitry and Azure Web app service + Containers )
 
 > This is a bare bones Node & Express app for Docker demos.
 
